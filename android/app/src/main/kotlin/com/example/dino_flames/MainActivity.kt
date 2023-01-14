@@ -1,0 +1,6 @@
+package com.example.dino_flames
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
